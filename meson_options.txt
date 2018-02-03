@@ -1,0 +1,3 @@
+option('test', type : 'boolean', value : true)
+option('documentation', type : 'boolean', value : false)
+
